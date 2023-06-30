@@ -230,6 +230,9 @@ header .buttonlink button::after{
 .firstcardclass .card:hover {
     background-color: #1BC768;
 }
+.firstcardclass .card:hover h4::after{
+    background-color: aliceblue;
+}
 .firstcardclass .card:hover i, .card:hover h4, .card:hover p{
     color: aliceblue;
 }
